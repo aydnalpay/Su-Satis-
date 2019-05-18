@@ -1,0 +1,7 @@
+Ýlk olarak xampp dosyasýný aç.
+En altlarýnda xampp control.exe çalýþtýr.
+Açýlan pencerede Apache ve MySQL için start a bas.
+Sonra MySQL de Admine bak.
+
+Ardýndan Projeyi netbeanste aç çalýþtýra bas
+Giriþ panelinin kullanýcý adý: Admin Þifresi: Admin.
